@@ -1,0 +1,41 @@
+product_id,category,product_name,unit_price,unit_cost
+P001,Electronics,Electronics item 1,14450.0,8997.0
+P002,Electronics,Electronics item 2,8810.0,6009.0
+P003,Electronics,Electronics item 3,14964.0,11987.0
+P004,Electronics,Electronics item 4,"Rs 38,536",25170.0
+P005,Electronics,Electronics item 5,"Rs 28,814",23647.0
+P006,Electronics,Electronics item 6,17764.0,12726.0
+P007,Electronics,Electronics item 7,21351.0,15908.0
+P008,Electronics,Electronics item 8,43290.0,25610.0
+P009,Furniture,Furniture item 1,"Rs 24,187",18133.0
+P010,Furniture,Furniture item 2,20203.0,14961.0
+P011,Furniture,Furniture item 3,21952.0,14222.0
+P012,Furniture,Furniture item 4,18139.0,11414.0
+P013,Furniture,Furniture item 5,"Rs 13,453",10150.0
+P014,Furniture,Furniture item 6,6226.0,3539.0
+P015,Furniture,Furniture item 7,20087.0,15923.0
+P016,Furniture,Furniture item 8,17143.0,11082.0
+P017,Office Supplies,Office item 1,807.0,464.0
+P018,Office Supplies,Office item 2,Rs 812,587.0
+P019,Office Supplies,Office item 3,760.0,520.0
+P020,Office Supplies,Office item 4,309.0,237.0
+P021,Office Supplies,Office item 5,584.0,452.0
+P022,Office Supplies,Office item 6,469.0,270.0
+P023,Office Supplies,Office item 7,674.0,497.0
+P024,Office Supplies,Office item 8,1110.0,906.0
+P025,Clothing,Clothing item 1,606.0,474.0
+P026,Clothing,Clothing item 2,1341.0,1018.0
+P027,Clothing,Clothing item 3,1766.0,1142.0
+P028,Clothing,Clothing item 4,2158.0,1530.0
+P029,Clothing,Clothing item 5,2900.0,2150.0
+P030,Clothing,Clothing item 6,2842.0,1891.0
+P031,Clothing,Clothing item 7,2838.0,1855.0
+P032,Clothing,Clothing item 8,2587.0,1779.0
+P033,Books,Books item 1,572.0,318.0
+P034,Books,Books item 2,524.0,323.0
+P035,Books,Books item 3,439.0,251.0
+P036,Books,Books item 4,643.0,526.0
+P037,Books,Books item 5,416.0,242.0
+P038,Books,Books item 6,615.0,362.0
+P039,Books,Books item 7,819.0,481.0
+P040,Books,Books item 8,421.0,294.0

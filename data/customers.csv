@@ -1,0 +1,401 @@
+customer_id,city,segment,age,signup_date
+CU0001,Hyderabad,Corporate,39.0,2022-12-11
+CU0002,Delhi,Corporate,36.0,2022-05-09
+CU0003,Chennai,Corporate,45.0,2022-04-23
+CU0004,HYDERABAD,Consumer,27.0,2024-03-12
+CU0005,Delhi,Corporate,34.0,2024-06-22
+CU0006,Chennai,Consumer,42.0,2024-07-11
+CU0007,HYDERABAD,Corporate,41.0,2023-12-31
+CU0008,Mumbai,Home Office,46.0,2022-05-22
+CU0009,Pune,Home Office,39.0,2024-07-14
+CU0010,Mumbai,Consumer,32.0,2022-01-14
+CU0011,Mumbai,Consumer,39.0,2022-09-27
+CU0012,Hyderabad,Consumer,25.0,2022-09-21
+CU0013,Hyderabad,Consumer,19.0,2024-01-15
+CU0014,Pune,Corporate,41.0,2022-05-15
+CU0015,Bengaluru,Corporate,34.0,2024-08-26
+CU0016,Chennai,Consumer,38.0,2022-07-08
+CU0017,PUNE,Home Office,18.0,2024-05-12
+CU0018,CHENNAI,Corporate,31.0,2023-08-07
+CU0019,Pune,Consumer,29.0,2022-09-08
+CU0020,Bengaluru,Corporate,26.0,2023-02-27
+CU0021,CHENNAI,Home Office,18.0,2022-04-25
+CU0022,Mumbai,Consumer,32.0,2023-03-06
+CU0023,Bengaluru,Corporate,,2023-11-24
+CU0024,Mumbai,Corporate,39.0,2022-07-25
+CU0025,Chennai,Corporate,-1.0,2024-08-20
+CU0026,Mumbai,Consumer,35.0,2023-10-27
+CU0027,Hyderabad,Corporate,43.0,2023-01-03
+CU0028,Bengaluru,Corporate,18.0,2022-10-17
+CU0029,Bengaluru,Corporate,34.0,2024-02-16
+CU0030,Delhi,Corporate,40.0,2023-02-04
+CU0031,Delhi,Consumer,42.0,2024-07-31
+CU0032,Delhi,Corporate,52.0,2023-04-09
+CU0033,Delhi,Home Office,46.0,2023-12-02
+CU0034,Hyderabad,Home Office,38.0,2024-06-23
+CU0035,Chennai,Consumer,38.0,2024-08-08
+CU0036,Chennai,Consumer,43.0,2022-09-04
+CU0037,CHENNAI,Corporate,30.0,2023-03-10
+CU0038,Delhi,Consumer,35.0,2023-12-20
+CU0039,Bengaluru,Corporate,44.0,2023-02-15
+CU0040,Hyderabad,Home Office,,2022-11-06
+CU0041,Bengaluru,Consumer,33.0,2023-09-12
+CU0042,Mumbai,Consumer,35.0,2024-06-13
+CU0043,Hyderabad,Consumer,37.0,2023-04-11
+CU0044,Pune,Corporate,48.0,2023-01-30
+CU0045,Hyderabad,Consumer,35.0,2024-02-01
+CU0046,Delhi,Consumer,50.0,2023-05-21
+CU0047,Pune,Consumer,25.0,2022-11-07
+CU0048,Pune,Corporate,33.0,2024-05-27
+CU0049,Bengaluru,Corporate,33.0,2023-09-02
+CU0050,Pune,Consumer,43.0,2023-11-04
+CU0051,Pune,Consumer,-1.0,2024-03-24
+CU0052,Delhi,Consumer,20.0,2022-04-05
+CU0053,Hyderabad,Consumer,26.0,2024-05-01
+CU0054,Bengaluru,Consumer,38.0,2022-05-17
+CU0055,Chennai,Consumer,28.0,2022-01-12
+CU0056,Hyderabad,Consumer,20.0,2024-09-17
+CU0057,Chennai,Consumer,45.0,2022-10-06
+CU0058,Delhi,Corporate,40.0,2022-01-30
+CU0059,Bengaluru,Corporate,40.0,2023-12-04
+CU0060,Delhi,Consumer,30.0,2022-10-28
+CU0061,Mumbai,Consumer,45.0,2023-02-22
+CU0062,Bengaluru,Corporate,33.0,2024-08-16
+CU0063,Bengaluru,Consumer,46.0,2023-07-25
+CU0064,Mumbai,Consumer,26.0,2022-01-16
+CU0065,Hyderabad,Consumer,26.0,2023-11-10
+CU0066,Pune,Consumer,37.0,2022-06-11
+CU0067, PUNE ,Home Office,28.0,2022-11-19
+CU0068,Mumbai,Consumer,42.0,2022-08-02
+CU0069,Hyderabad,Consumer,38.0,2024-07-03
+CU0070,Chennai,Corporate,26.0,2022-03-28
+CU0071,Hyderabad,Corporate,36.0,2023-06-25
+CU0072,Mumbai,Consumer,31.0,2023-04-17
+CU0073,Chennai,Consumer,44.0,2023-07-06
+CU0074,Bengaluru,Home Office,29.0,2023-08-16
+CU0075,Bengaluru,Consumer,31.0,2022-04-13
+CU0076,Pune,Corporate,47.0,2022-11-15
+CU0077,Delhi,Consumer,57.0,2023-07-21
+CU0078,Chennai,Corporate,55.0,2022-04-19
+CU0079,Delhi,Corporate,36.0,2024-03-21
+CU0080,Pune,Corporate,37.0,2024-03-21
+CU0081,Delhi,Corporate,50.0,2023-06-13
+CU0082,Mumbai,Consumer,34.0,2024-03-15
+CU0083,Hyderabad,Consumer,25.0,2023-03-06
+CU0084,Hyderabad,Consumer,36.0,2023-07-17
+CU0085,Mumbai,Corporate,40.0,2023-04-11
+CU0086,Delhi,Consumer,27.0,2022-05-18
+CU0087,Hyderabad,Consumer,19.0,2022-06-25
+CU0088,Hyderabad,Consumer,21.0,2023-06-26
+CU0089,Chennai,Corporate,42.0,2022-03-19
+CU0090,Delhi,Home Office,27.0,2023-09-22
+CU0091,Pune,Consumer,34.0,2022-11-18
+CU0092,Chennai,Consumer,37.0,2023-03-05
+CU0093,Bengaluru,Corporate,41.0,2024-06-16
+CU0094,Pune,Corporate,32.0,2024-05-13
+CU0095,Mumbai,Corporate,40.0,2023-04-15
+CU0096, Delhi ,Home Office,26.0,2023-01-26
+CU0097,Chennai,Home Office,31.0,2024-03-23
+CU0098,DELHI,Corporate,25.0,2023-05-26
+CU0099,Delhi,Corporate,46.0,2024-01-07
+CU0100,Hyderabad,Consumer,,2022-04-25
+CU0101,Chennai,Corporate,28.0,2023-12-13
+CU0102,Bengaluru,Consumer,31.0,2023-07-18
+CU0103,Delhi,Corporate,33.0,2022-07-31
+CU0104,Delhi,Corporate,42.0,2024-02-06
+CU0105,Pune,Corporate,19.0,2023-06-21
+CU0106,Pune,Consumer,25.0,2024-01-02
+CU0107,Delhi,Consumer,31.0,2024-04-08
+CU0108,Bengaluru,Consumer,60.0,2022-09-14
+CU0109,Delhi,Consumer,45.0,2024-03-21
+CU0110,Mumbai,Corporate,34.0,2024-09-18
+CU0111,Mumbai,Consumer,42.0,2023-06-02
+CU0112,Pune,Consumer,56.0,2023-12-21
+CU0113,Bengaluru,Consumer,33.0,2024-02-11
+CU0114,Chennai,Corporate,31.0,2023-02-28
+CU0115,Bengaluru,Consumer,47.0,2024-03-16
+CU0116,Bengaluru,Corporate,40.0,2023-02-19
+CU0117,Delhi,Home Office,42.0,2024-06-04
+CU0118,Hyderabad,Consumer,30.0,2024-02-19
+CU0119,Bengaluru,Consumer,54.0,2023-06-23
+CU0120,Delhi,Corporate,52.0,2022-06-25
+CU0121,Bengaluru,Home Office,41.0,2024-04-07
+CU0122,Delhi,Consumer,42.0,2023-10-02
+CU0123,Bengaluru,Corporate,18.0,2023-07-26
+CU0124,Delhi,Corporate,41.0,2023-12-20
+CU0125,Delhi,Home Office,33.0,2024-09-21
+CU0126,Chennai,Consumer,39.0,2023-06-01
+CU0127,Hyderabad,Consumer,42.0,2023-01-21
+CU0128,Pune,Home Office,32.0,2024-05-23
+CU0129,Delhi,Consumer,18.0,2023-10-12
+CU0130,Bengaluru,Consumer,,2023-04-14
+CU0131,Bengaluru,Corporate,28.0,2022-07-01
+CU0132,Mumbai,Consumer,32.0,2023-04-10
+CU0133,Pune,Corporate,29.0,2024-07-25
+CU0134,Bengaluru,Consumer,32.0,2022-10-12
+CU0135,Chennai,Home Office,18.0,2024-08-17
+CU0136,Pune,Consumer,47.0,2024-07-08
+CU0137,Bengaluru,Corporate,38.0,2024-04-26
+CU0138,Hyderabad,Consumer,46.0,2022-11-13
+CU0139, Hyderabad ,Consumer,55.0,2024-03-05
+CU0140,Mumbai,Consumer,35.0,2023-11-27
+CU0141,Pune,Consumer,18.0,2024-06-16
+CU0142,CHENNAI,Consumer,26.0,2023-02-14
+CU0143,Pune,Corporate,,2023-09-11
+CU0144,Mumbai,Consumer,30.0,2024-07-24
+CU0145,Bengaluru,Consumer,36.0,2024-07-02
+CU0146,Hyderabad,Home Office,18.0,2024-08-05
+CU0147,Pune,Home Office,,2022-04-12
+CU0148,Delhi,Home Office,,2022-01-31
+CU0149,Delhi,Consumer,38.0,2022-04-05
+CU0150,Pune,Consumer,34.0,2024-09-21
+CU0151,HYDERABAD,Consumer,32.0,2023-02-21
+CU0152,Hyderabad,Consumer,34.0,2023-08-28
+CU0153,Bengaluru,Consumer,,2023-02-21
+CU0154, Hyderabad ,Consumer,29.0,2022-03-15
+CU0155,Delhi,Consumer,18.0,2024-06-30
+CU0156,Hyderabad,Consumer,35.0,2023-05-13
+CU0157,Hyderabad,,53.0,2022-11-01
+CU0158,Delhi,Consumer,55.0,2022-02-19
+CU0159,Mumbai,Consumer,48.0,2022-04-27
+CU0160, Pune ,Corporate,42.0,2023-07-03
+CU0161,Delhi,Consumer,28.0,2024-02-08
+CU0162,Mumbai,Consumer,49.0,2022-07-05
+CU0163,Chennai,,34.0,2023-06-15
+CU0164,Hyderabad,Consumer,34.0,2023-01-03
+CU0165,Mumbai,Corporate,32.0,2023-10-16
+CU0166,Delhi,Consumer,36.0,2022-11-01
+CU0167,Pune,Consumer,31.0,2024-06-03
+CU0168,Mumbai,Corporate,34.0,2023-08-26
+CU0169,Bengaluru,Home Office,24.0,2022-06-25
+CU0170,Hyderabad,Consumer,31.0,2024-04-02
+CU0171,Hyderabad,Consumer,58.0,2023-10-07
+CU0172,Delhi,,34.0,2024-07-25
+CU0173,Delhi,Home Office,33.0,2024-07-11
+CU0174, Delhi ,Home Office,40.0,2022-11-25
+CU0175,Pune,Consumer,42.0,2023-11-24
+CU0176,Bengaluru,Home Office,24.0,2023-07-24
+CU0177,Hyderabad,Consumer,,2023-03-11
+CU0178,Bengaluru,Consumer,44.0,2022-01-06
+CU0179,Mumbai,Consumer,38.0,2024-03-24
+CU0180,Mumbai,Home Office,36.0,2023-01-08
+CU0181,Chennai,Consumer,51.0,2022-03-10
+CU0182,Pune,Consumer,28.0,2024-08-18
+CU0183,Hyderabad,Corporate,36.0,2023-02-05
+CU0184,Hyderabad,Consumer,30.0,2022-04-29
+CU0185,Delhi,Consumer,50.0,2023-03-13
+CU0186,Bengaluru,Consumer,18.0,2024-05-19
+CU0187,Chennai,Home Office,28.0,2024-01-20
+CU0188,Delhi,Corporate,30.0,2023-10-15
+CU0189,Bengaluru,Corporate,42.0,2022-10-25
+CU0190,Mumbai,Corporate,41.0,2022-10-21
+CU0191,Bengaluru,Corporate,49.0,2022-09-20
+CU0192,Chennai,Corporate,19.0,2024-02-18
+CU0193,Pune,Corporate,43.0,2024-03-16
+CU0194,Pune,Corporate,32.0,2022-10-17
+CU0195,Chennai,,28.0,2022-10-29
+CU0196,Bengaluru,Consumer,40.0,2024-06-13
+CU0197,Chennai,Corporate,26.0,2024-09-01
+CU0198,PUNE,Consumer,18.0,2022-03-24
+CU0199,Hyderabad,Home Office,31.0,2022-09-14
+CU0200,Pune,Corporate,20.0,2022-04-29
+CU0201,BENGALURU,Consumer,29.0,2022-12-25
+CU0202,HYDERABAD,Home Office,39.0,2024-01-21
+CU0203,Pune,Consumer,38.0,2023-08-10
+CU0204,Delhi,Consumer,51.0,2023-03-26
+CU0205, Chennai ,,33.0,2022-07-27
+CU0206,Bengaluru,Home Office,20.0,2022-05-28
+CU0207,Pune,Corporate,27.0,2024-01-31
+CU0208,Delhi,Corporate,26.0,2023-05-29
+CU0209,Bengaluru,Consumer,,2022-01-21
+CU0210,Hyderabad,Corporate,39.0,2022-10-24
+CU0211,Chennai,Corporate,29.0,2023-11-10
+CU0212,Bengaluru,Corporate,18.0,2023-07-04
+CU0213,Pune,Home Office,42.0,2023-12-31
+CU0214,Delhi,Consumer,34.0,2024-01-14
+CU0215, Mumbai ,Consumer,39.0,2022-04-22
+CU0216,Chennai,Corporate,36.0,2024-05-06
+CU0217,Hyderabad,Corporate,41.0,2023-08-21
+CU0218,Bengaluru,Consumer,35.0,2022-03-01
+CU0219,Hyderabad,Corporate,47.0,2024-08-14
+CU0220,Delhi,Consumer,39.0,2023-08-16
+CU0221,Delhi,Corporate,39.0,2022-08-27
+CU0222,Chennai,Corporate,39.0,2024-09-10
+CU0223,Chennai,Consumer,20.0,2022-02-03
+CU0224,Hyderabad,Corporate,33.0,2023-04-05
+CU0225,Hyderabad,Consumer,32.0,2022-02-09
+CU0226,Pune,Home Office,37.0,2024-02-09
+CU0227,Bengaluru,Consumer,21.0,2024-02-14
+CU0228,Hyderabad,Consumer,51.0,2022-04-08
+CU0229,Mumbai,Corporate,36.0,2022-10-19
+CU0230,Pune,Consumer,23.0,2024-05-23
+CU0231,DELHI,Corporate,18.0,2022-09-20
+CU0232,Chennai,Consumer,32.0,2023-08-06
+CU0233,Chennai,Corporate,34.0,2023-06-29
+CU0234,Chennai,Corporate,28.0,2024-06-07
+CU0235,Delhi,Home Office,36.0,2024-01-15
+CU0236,Pune,Consumer,29.0,2024-02-27
+CU0237,Hyderabad,Consumer,41.0,2022-03-31
+CU0238,Bengaluru,Corporate,28.0,2024-05-19
+CU0239,Hyderabad,Corporate,35.0,2023-03-30
+CU0240,Chennai,Consumer,45.0,2022-02-27
+CU0241,Hyderabad,,61.0,2022-04-06
+CU0242,Pune,Consumer,25.0,2023-12-17
+CU0243,Hyderabad,,,2024-06-07
+CU0244,Delhi,Home Office,,2022-07-16
+CU0245,Bengaluru,Consumer,43.0,2022-10-21
+CU0246,Chennai,Consumer,24.0,2022-09-23
+CU0247,Hyderabad,Corporate,30.0,2024-06-10
+CU0248,Delhi,Corporate,35.0,2022-11-21
+CU0249,Pune,Corporate,25.0,2023-10-13
+CU0250,Chennai,Corporate,25.0,2023-08-15
+CU0251,Mumbai,Consumer,30.0,2023-02-14
+CU0252,Mumbai,Corporate,18.0,2023-09-20
+CU0253,Mumbai,Corporate,21.0,2022-07-26
+CU0254,Mumbai,Corporate,31.0,2024-07-20
+CU0255,Hyderabad,Corporate,36.0,2024-07-04
+CU0256,Bengaluru,Consumer,33.0,2022-01-13
+CU0257,Pune,Corporate,18.0,2023-04-28
+CU0258,Mumbai,Consumer,30.0,2022-07-13
+CU0259,Bengaluru,Corporate,43.0,2023-03-25
+CU0260,Bengaluru,Consumer,41.0,2022-12-29
+CU0261,MUMBAI,Consumer,34.0,2024-05-24
+CU0262,Hyderabad,Corporate,26.0,2024-03-29
+CU0263,Hyderabad,Consumer,41.0,2022-10-15
+CU0264,Delhi,Consumer,29.0,2023-07-04
+CU0265,Hyderabad,Corporate,23.0,2023-01-27
+CU0266,Bengaluru,,27.0,2023-05-27
+CU0267,Pune,Corporate,49.0,2024-06-23
+CU0268,Mumbai,Corporate,37.0,2024-01-31
+CU0269,Pune,Consumer,47.0,2022-02-22
+CU0270,Hyderabad,Corporate,30.0,2023-10-18
+CU0271,Mumbai,Consumer,,2024-02-11
+CU0272,Bengaluru,Consumer,29.0,2022-10-17
+CU0273,MUMBAI,Home Office,,2024-01-11
+CU0274,Hyderabad,,60.0,2022-03-29
+CU0275,Pune,Corporate,43.0,2022-04-04
+CU0276,Delhi,Corporate,30.0,2023-04-08
+CU0277,Hyderabad,Corporate,34.0,2023-02-18
+CU0278,Delhi,Corporate,38.0,2024-05-30
+CU0279,Hyderabad,Consumer,47.0,2024-04-05
+CU0280,Hyderabad,Consumer,,2023-08-22
+CU0281, Chennai ,Consumer,18.0,2023-06-28
+CU0282,Chennai,Consumer,32.0,2022-02-23
+CU0283,Delhi,Consumer,35.0,2022-07-09
+CU0284, Delhi ,Home Office,36.0,2023-03-17
+CU0285,Chennai,Consumer,48.0,2023-03-01
+CU0286,BENGALURU,Consumer,38.0,2023-01-20
+CU0287,Hyderabad,Consumer,43.0,2023-05-16
+CU0288,Hyderabad,Corporate,24.0,2023-08-06
+CU0289,Bengaluru,Home Office,44.0,2023-01-26
+CU0290,Bengaluru,Home Office,56.0,2023-08-11
+CU0291,Chennai,Consumer,,2022-04-18
+CU0292,HYDERABAD,Consumer,38.0,2024-08-09
+CU0293,Pune,Home Office,37.0,2023-06-03
+CU0294, Pune ,Consumer,53.0,2022-12-05
+CU0295,Mumbai,Corporate,26.0,2023-03-20
+CU0296,Bengaluru,Consumer,34.0,2023-02-13
+CU0297, Pune ,Home Office,40.0,2022-10-13
+CU0298,Delhi,Consumer,42.0,2023-09-06
+CU0299,Delhi,Consumer,31.0,2024-06-06
+CU0300,Hyderabad,Consumer,38.0,2024-06-05
+CU0301,Chennai,Consumer,32.0,2022-06-16
+CU0302,Mumbai,Corporate,36.0,2023-12-08
+CU0303,Chennai,Corporate,34.0,2024-01-25
+CU0304,Chennai,Consumer,24.0,2023-04-16
+CU0305,Chennai,Corporate,35.0,2023-11-20
+CU0306,Chennai,Consumer,44.0,2024-03-25
+CU0307,Mumbai,Consumer,25.0,2022-04-15
+CU0308,Chennai,Consumer,33.0,2023-05-01
+CU0309,Pune,Consumer,42.0,2022-02-01
+CU0310,Delhi,Consumer,24.0,2024-08-21
+CU0311,Hyderabad,Corporate,37.0,2023-06-13
+CU0312,Hyderabad,Corporate,24.0,2022-10-10
+CU0313,Mumbai,Consumer,46.0,2022-03-05
+CU0314,Mumbai,Corporate,58.0,2022-05-08
+CU0315,Delhi,Corporate,55.0,2022-10-09
+CU0316,Bengaluru,Consumer,33.0,2024-04-10
+CU0317,Chennai,Consumer,42.0,2024-09-08
+CU0318,Mumbai,Corporate,36.0,2022-10-25
+CU0319,Mumbai,Consumer,36.0,2022-12-06
+CU0320,Pune,Corporate,50.0,2024-04-27
+CU0321,Bengaluru,Consumer,22.0,2022-04-11
+CU0322,Mumbai,Corporate,46.0,2023-09-02
+CU0323,Mumbai,Consumer,35.0,2023-08-23
+CU0324,Hyderabad,Consumer,49.0,2023-05-24
+CU0325,Chennai,Consumer,37.0,2024-04-15
+CU0326,Hyderabad,Corporate,28.0,2022-03-29
+CU0327,Delhi,Consumer,38.0,2022-10-12
+CU0328,Pune,Home Office,42.0,2024-02-26
+CU0329,Chennai,Consumer,35.0,2022-10-30
+CU0330,Delhi,Consumer,40.0,2022-03-07
+CU0331,Hyderabad,Consumer,30.0,2023-04-03
+CU0332,Bengaluru,Consumer,18.0,2024-08-23
+CU0333,Mumbai,Consumer,,2024-03-01
+CU0334,Delhi,Corporate,42.0,2024-05-26
+CU0335,Bengaluru,Corporate,36.0,2022-10-13
+CU0336,Delhi,Consumer,36.0,2022-10-30
+CU0337,Bengaluru,Consumer,,2022-06-04
+CU0338,Mumbai,Consumer,30.0,2022-05-08
+CU0339,Pune,Corporate,28.0,2022-10-06
+CU0340,Hyderabad,Consumer,,2024-06-04
+CU0341,Chennai,Home Office,47.0,2023-11-07
+CU0342,BENGALURU,Corporate,21.0,2023-04-25
+CU0343,Mumbai,Corporate,47.0,2023-04-17
+CU0344,Delhi,Corporate,29.0,2022-05-05
+CU0345,Bengaluru,Corporate,24.0,2023-05-06
+CU0346, Delhi ,Consumer,48.0,2023-05-14
+CU0347,Pune,Consumer,34.0,2024-02-05
+CU0348,Mumbai,Consumer,22.0,2022-09-04
+CU0349,Chennai,Consumer,31.0,2024-05-13
+CU0350,Pune,Consumer,44.0,2023-02-12
+CU0351,Chennai,Consumer,47.0,2022-03-01
+CU0352,Bengaluru,Corporate,31.0,2023-10-03
+CU0353,Pune,Consumer,39.0,2023-08-29
+CU0354,Chennai,Consumer,42.0,2024-07-04
+CU0355,Chennai,Consumer,,2023-07-07
+CU0356,Chennai,Consumer,39.0,2024-03-11
+CU0357,Hyderabad,Home Office,35.0,2022-08-28
+CU0358,Chennai,Consumer,30.0,2022-06-11
+CU0359,Hyderabad,Consumer,30.0,2023-10-06
+CU0360,Pune,Consumer,36.0,2023-04-23
+CU0361,Hyderabad,Consumer,35.0,2024-03-03
+CU0362,Hyderabad,Consumer,29.0,2023-05-07
+CU0363, Chennai ,Consumer,31.0,2024-03-07
+CU0364,Chennai,Consumer,46.0,2024-09-16
+CU0365,Chennai,Consumer,,2024-08-26
+CU0366,Hyderabad,Corporate,44.0,2022-03-28
+CU0367,Hyderabad,Consumer,-1.0,2024-08-27
+CU0368,Delhi,Corporate,41.0,2023-05-26
+CU0369,Chennai,Consumer,58.0,2023-01-10
+CU0370,Hyderabad,Consumer,27.0,2024-07-03
+CU0371,Mumbai,Corporate,43.0,2022-06-19
+CU0372, PUNE ,Consumer,32.0,2023-02-03
+CU0373,Mumbai,Home Office,54.0,2024-04-13
+CU0374,Pune,Home Office,52.0,2022-09-19
+CU0375,Bengaluru,Corporate,18.0,2024-07-24
+CU0376,Pune,Consumer,25.0,2023-07-10
+CU0377,Mumbai,Corporate,,2023-05-28
+CU0378,Mumbai,Corporate,43.0,2022-11-17
+CU0379,Chennai,Corporate,,2022-05-06
+CU0380,Mumbai,Consumer,34.0,2024-07-16
+CU0381,Hyderabad,Home Office,40.0,2022-01-04
+CU0382,Mumbai,Home Office,42.0,2022-03-26
+CU0383,Hyderabad,Consumer,34.0,2022-03-17
+CU0384,Delhi,Consumer,45.0,2022-07-26
+CU0385,Mumbai,Consumer,18.0,2024-01-05
+CU0386,Pune,Corporate,41.0,2022-03-25
+CU0387,Mumbai,Home Office,25.0,2022-05-29
+CU0388,Delhi,Home Office,45.0,2023-12-13
+CU0389,Pune,Corporate,33.0,2022-02-03
+CU0390,Pune,Corporate,26.0,2022-10-21
+CU0391,Pune,Corporate,39.0,2024-04-08
+CU0392,Chennai,,26.0,2024-06-19
+CU0393,Pune,Home Office,26.0,2023-05-11
+CU0394,Pune,Corporate,19.0,2024-06-12
+CU0395,Bengaluru,Consumer,35.0,2024-06-07
+CU0396,Mumbai,Consumer,,2024-07-25
+CU0397,Delhi,Consumer,45.0,2022-09-05
+CU0398,Hyderabad,Corporate,34.0,2022-09-14
+CU0399,Hyderabad,Corporate,45.0,2023-10-22
+CU0400,Delhi,Consumer,35.0,2022-01-01

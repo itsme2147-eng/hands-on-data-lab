@@ -1,0 +1,13 @@
+name: ds-lab
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - scipy
+  - jupyter
+  - pip

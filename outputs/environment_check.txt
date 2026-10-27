@@ -1,0 +1,9 @@
+Python 3.12.3  (/usr/bin/python3)
+numpy          OK   2.4.4
+pandas         OK   3.0.2
+matplotlib     OK   3.10.8
+seaborn        OK   0.13.2
+sklearn        OK   1.8.0
+scipy          OK   1.17.1
+jupyter_core   OK   5.9.1
+Smoke test passed
